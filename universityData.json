@@ -1,0 +1,217 @@
+{
+  "faculties": [
+    {
+      "id": "f1",
+      "facultyName": "Science & Engineering",
+      "icon": "code-working",
+      "color": "#3B82F6",
+      "departments": [
+        {
+          "id": "d1",
+          "deptName": "Computer Science & Engineering",
+          "code": "CSE",
+          "teachers": [
+            {
+              "id": "t1",
+              "name": "Dr. Md. Selim Al Mamun",
+              "designation": "Professor",
+              "email": "selim@jkkniu.edu.bd",
+              "phone": "01737785708",
+              "image": "../assets/images/t1 (1).jpg",
+              "dept": "CSE",
+
+              "education": [
+                {
+                  "degree": "Ph.D.",
+                  "subject": "Computer Science",
+                  "institute": "University of Rajshahi",
+                  "country": "Bangladesh",
+                  "year": "2019"
+                },
+                {
+                  "degree": "M.Sc.",
+                  "subject": "Computer Science",
+                  "institute": "University of Rajshahi",
+                  "country": "Bangladesh",
+                  "year": "2010"
+                }
+              ],
+
+              "experience": [
+                {
+                  "title": "Professor",
+                  "institution": "JKKNIU",
+                  "years": "2018 - Present"
+                },
+                {
+                  "title": "Associate Professor",
+                  "institution": "JKKNIU",
+                  "years": "2014 - 2018"
+                }
+              ],
+
+              "research": [
+                {
+                  "title": "Artificial Intelligence in Education"
+                },
+                {
+                  "title": "Machine Learning Optimization"
+                }
+              ],
+
+              "publications": [
+                {
+                  "title": "AI-Based Learning System",
+                  "journal": "IEEE Access",
+                  "year": "2022"
+                }
+              ],
+
+              "awards": [
+                {
+                  "title": "Best Researcher Award",
+                  "year": "2021"
+                }
+              ],
+
+              "teaching": [
+                "Data Structures",
+                "Machine Learning",
+                "Algorithm Design"
+              ],
+
+              "resources": [
+                {
+                  "title": "Lecture Slides",
+                  "link": "https://example.com/slides"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d2",
+          "deptName": "Electrical & Electronic Engineering",
+          "code": "EEE",
+          "teachers": []
+        },
+        {
+          "id": "d3",
+          "deptName": "Mathematics",
+          "code": "MATH",
+          "teachers": []
+        },
+        {
+          "id": "d4",
+          "deptName": "Physics",
+          "code": "PHY",
+          "teachers": []
+        },
+        {
+          "id": "d5",
+          "deptName": "Chemistry",
+          "code": "CHEM",
+          "teachers": []
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "facultyName": "Business Administration",
+      "icon": "business",
+      "color": "#10B981",
+      "departments": [
+        {
+          "id": "d6",
+          "deptName": "Accounting & Information Systems",
+          "code": "AIS",
+          "teachers": []
+        },
+        {
+          "id": "d7",
+          "deptName": "Finance and Banking",
+          "code": "FNB",
+          "teachers": []
+        },
+        {
+          "id": "d8",
+          "deptName": "Management",
+          "code": "MGT",
+          "teachers": []
+        },
+        {
+          "id": "d9",
+          "deptName": "Marketing",
+          "code": "MKT",
+          "teachers": []
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "facultyName": "Arts",
+      "icon": "color-palette",
+      "color": "#F59E0B",
+      "departments": [
+        {
+          "id": "d10",
+          "deptName": "Bangla Language & Literature",
+          "code": "BAN",
+          "teachers": []
+        },
+        {
+          "id": "d11",
+          "deptName": "English Language & Literature",
+          "code": "ENG",
+          "teachers": []
+        },
+        {
+          "id": "d12",
+          "deptName": "Fine Arts",
+          "code": "FA",
+          "teachers": []
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "facultyName": "Social Science",
+      "icon": "people-circle",
+      "color": "#8B5CF6",
+      "departments": [
+        {
+          "id": "d13",
+          "deptName": "Economics",
+          "code": "ECO",
+          "teachers": []
+        },
+        {
+          "id": "d14",
+          "deptName": "Public Administration",
+          "code": "PAD",
+          "teachers": []
+        },
+        {
+          "id": "d15",
+          "deptName": "Sociology",
+          "code": "SOC",
+          "teachers": []
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "facultyName": "Law",
+      "icon": "document-text",
+      "color": "#EF4444",
+      "departments": [
+        {
+          "id": "d16",
+          "deptName": "Law & Justice",
+          "code": "LAW",
+          "teachers": []
+        }
+      ]
+    }
+  ]
+}

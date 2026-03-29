@@ -1,0 +1,45 @@
+[
+  { 
+    "id": "1", 
+    "title": "Semester Final Exam Schedule 2026", 
+    "date": "16 March", 
+    "type": "Exam", 
+    "pdf": true,
+    "pdfUrl": "https://example.com/exam.pdf",
+    "desc": "The semester final examinations for all departments will start from April 2026. Please collect your admit cards."
+  },
+  { 
+    "id": "2", 
+    "title": "Nazrul Jayanti Cultural Program Details", 
+    "date": "14 March", 
+    "type": "Event", 
+    "pdf": true,
+    "pdfUrl": "https://example.com/event.pdf",
+    "desc": "Join us for the grand celebration of Nazrul Jayanti at the central auditorium."
+  },
+  { 
+    "id": "3", 
+    "title": "Updated Bus Routes for Ramadan", 
+    "date": "12 March", 
+    "type": "Transport", 
+    "pdf": false, 
+    "desc": "Due to Ramadan, the university bus schedule has been shifted." 
+  },
+  { 
+    "id": "4", 
+    "title": "ICT Career Seminar 2026", 
+    "date": "10 March", 
+    "type": "Event", 
+    "pdf": true,
+    "pdfUrl": "https://example.com/ict.pdf",
+    "desc": "A seminar on 'Future of MERN Stack' will be held at the ICT Division gallery."
+  },
+  { 
+    "id": "5", 
+    "title": "Central Library Book Return Deadline", 
+    "date": "08 March", 
+    "type": "Admin", 
+    "pdf": false, 
+    "desc": "Students are requested to return borrowed books by March 20." 
+  }
+]
